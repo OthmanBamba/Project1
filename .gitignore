@@ -3,6 +3,7 @@ tmp/*
 Projet Git Hub
 Gestion de conflit
 Doc
+<<<<<<< HEAD
 Hello
 Happy
 HEY
@@ -16,3 +17,18 @@ kyfyjkuhgyu
 yftykhyu
 fjykuhg
 tufuyug
+=======
+my name
+is
+Hanane
+Hello
+Happy 
+HEY
+<<<<<<< HEAD
+drt
+kjer
+git branch
+=======
+git branch
+>>>>>>> othman
+>>>>>>> master
